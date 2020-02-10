@@ -1,8 +1,8 @@
-Name:
+Name: Julian Wearden
 
-EID:
+EID: jfw864
 
-Team Number:
+Team Number: 11
 
 ## Questions
 
@@ -61,7 +61,7 @@ Team Number:
 ## Screenshots
 
 Procedure A, step 1:
-![Put path to your image here ->](img/placeholder.png)
+![Put path to your image here ->](img/ProcedureA_Sequence.png)
 
 Procedure A, step 4:
 ![Put path to your image here ->](img/placeholder.png)
