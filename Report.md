@@ -74,10 +74,10 @@ Team Number: 11
 ## Screenshots
 
 Procedure A, step 1:
-![Put path to your image here ->](img/ProcedureA_Sequence.png)
+![Put path to your image here ->](img/ASeq.png)
 
 Procedure A, step 4:
-![Put path to your image here ->](img/ProcedureA_Dimmer.png)
+![Put path to your image here ->](img/ADim.png)
 
 Procedure B, UART:
 ![Put path to your image here ->](img/UART.png)
