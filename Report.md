@@ -74,13 +74,13 @@ Team Number: 11
 ## Screenshots
 
 Procedure A, step 1:
-![Put path to your image here ->](img/ASeq.png)
+![Put path to your image here ->](img/ASeq.PNG)
 
 Procedure A, step 4:
-![Put path to your image here ->](img/ADim.png)
+![Put path to your image here ->](img/ADim.PNG)
 
 Procedure B, UART:
 ![Put path to your image here ->](img/UART.png)
 
 Procedure B, SPI:
-![Put path to your image here ->](img/SPI.png)
+![Put path to your image here ->](img/SPI.PNG)
